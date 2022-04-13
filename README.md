@@ -14,7 +14,7 @@
 
 <!-- about me content -->
 
-## Languages and tools:
+<!-- ## Languages and tools: -->
 
 <!-- <img align="left" width="40px" alt="html5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> -->
 
