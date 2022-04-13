@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**boopathiking1154/boopathiking1154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/boopathi-raja-v" target="_blank">
+  <img align="left" alt="Boopathi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="mailto:boopathiraja1154@gmail.com">
+  <img align="left" alt="boopathi's Mail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=surya9901.surya9901)
+
+## Hi, I'm Boopathi Raja 
+
+<!-- about me content -->
+
+## Languages and tools:
+
+<!-- <img align="left" width="40px" alt="html5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> -->
+
+<br />
+<br />
+
+<hr />
+
+<img src="https://github-readme-stats.vercel.app/api?username=boopathiking1154&&show_icons=true&theme=gotham" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boopathiking1154&&show_icons=true&theme=gotham" align="right" />
